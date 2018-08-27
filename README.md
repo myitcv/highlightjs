@@ -1,9 +1,7 @@
-### `myitcv.io/highlightjs`
+## `** myitcv.io/highlightjs **` has moved
 
-```
-go get -u myitcv.io/highlightjs
-```
+The repository hosting `myitcv.io/highlightjs` has changed.
 
-Package highlightjs provides an incomplete [GopherJS](https://github.com/gopherjs/gopherjs) wrapper for
-[Highlight.js](https://github.com/isagalaev/highlight.js), a Javascript syntax highlighter
+`myitcv.io/highlightjs` can now be found at:
 
+https://github.com/myitcv/x/tree/master/highlightjs
